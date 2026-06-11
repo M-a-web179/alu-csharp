@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "ATpB428YGVp04gB6Nr2bxb2/XeK+pXOb08lyOaZDCdxs71VOiWoVWTTFiH5xvLNK+wYPvbQ10uCFEaVfSjlFYw==",
+  "dgSpecHash": "VAOegyI8AH0=",
   "success": true,
-  "projectFilePath": "/home/briang/Work/ARVR/alu-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/6-linkedlist_length.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/workspaces/alu-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/6-linkedlist_length.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.20/microsoft.netcore.app.host.linux-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

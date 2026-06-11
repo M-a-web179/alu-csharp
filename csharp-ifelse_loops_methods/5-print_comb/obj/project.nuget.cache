@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "H3f3zXJRgMFljeT4TcaiSW4XT1QPWT2WdAWA/ysGENLfcVLbGyHUts26cDYRnaqnvWxqziSmQ3tNHr7KFahkVg==",
+  "dgSpecHash": "MrTvMP+qRQE=",
   "success": true,
-  "projectFilePath": "/home/briang/Work/ARVR/alu-csharp/csharp-ifelse_loops_methods/5-print_comb/5-print_comb.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/workspaces/alu-csharp/csharp-ifelse_loops_methods/5-print_comb/5-print_comb.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.20/microsoft.netcore.app.host.linux-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

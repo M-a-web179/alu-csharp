@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "bWENBCI0vZlhDxW2UDv3u0EL9V+5hQheWDvMePU3mSmq1A6Y3M3gG0b1nMnBRbuX6GUQFqseTmcL8FG5+M8ibA==",
+  "dgSpecHash": "5vArCPf54cU=",
   "success": true,
-  "projectFilePath": "/home/briang/Work/ARVR/alu-csharp/csharp-arrays_lists_dictionaries/6-divisible_by_2/6-divisible_by_2.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/workspaces/alu-csharp/csharp-arrays_lists_dictionaries/6-divisible_by_2/6-divisible_by_2.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.20/microsoft.netcore.app.host.linux-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "wg9x+jlzYrI1T41IX+Xg3On62NhxVDeonR8q1tXzQEM6i4TcIfFVFH1/0pnnrdKcv82whlyE5sORKibNU/8IFg==",
+  "dgSpecHash": "HHG1qg+UsyY=",
   "success": true,
-  "projectFilePath": "/home/briang/Work/ARVR/alu-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/14-rectangular_array.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/workspaces/alu-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/14-rectangular_array.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.20/microsoft.netcore.app.host.linux-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/home/briang/.nuget/packages/": {}
+    "/home/codespace/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/briang/Work/ARVR/alu-csharp/csharp-hello_world/7-concat/7-concat.csproj",
+      "projectUniqueName": "/workspaces/alu-csharp/csharp-hello_world/7-concat/7-concat.csproj",
       "projectName": "7-concat",
-      "projectPath": "/home/briang/Work/ARVR/alu-csharp/csharp-hello_world/7-concat/7-concat.csproj",
-      "packagesPath": "/home/briang/.nuget/packages/",
-      "outputPath": "/home/briang/Work/ARVR/alu-csharp/csharp-hello_world/7-concat/obj/",
+      "projectPath": "/workspaces/alu-csharp/csharp-hello_world/7-concat/7-concat.csproj",
+      "packagesPath": "/home/codespace/.nuget/packages/",
+      "outputPath": "/workspaces/alu-csharp/csharp-hello_world/7-concat/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/briang/.nuget/NuGet/NuGet.Config"
+        "/home/codespace/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -38,7 +38,13 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "10.0.200"
     },
     "frameworks": {
       "net7.0": {
@@ -54,12 +60,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.20, 7.0.20]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.linux-x64",
+            "version": "[7.0.20, 7.0.20]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.20, 7.0.20]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/home/briang/dotnet/sdk/7.0.119/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.200/RuntimeIdentifierGraph.json"
       }
     }
   }

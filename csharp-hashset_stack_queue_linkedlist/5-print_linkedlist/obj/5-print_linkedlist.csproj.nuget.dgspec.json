@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/briang/Work/ARVR/alu-csharp/csharp-hashset_stack_queue_linkedlist/5-print_linkedlist/5-print_linkedlist.csproj": {}
+    "/workspaces/alu-csharp/csharp-hashset_stack_queue_linkedlist/5-print_linkedlist/5-print_linkedlist.csproj": {}
   },
   "projects": {
-    "/home/briang/Work/ARVR/alu-csharp/csharp-hashset_stack_queue_linkedlist/5-print_linkedlist/5-print_linkedlist.csproj": {
+    "/workspaces/alu-csharp/csharp-hashset_stack_queue_linkedlist/5-print_linkedlist/5-print_linkedlist.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/briang/Work/ARVR/alu-csharp/csharp-hashset_stack_queue_linkedlist/5-print_linkedlist/5-print_linkedlist.csproj",
+        "projectUniqueName": "/workspaces/alu-csharp/csharp-hashset_stack_queue_linkedlist/5-print_linkedlist/5-print_linkedlist.csproj",
         "projectName": "5-print_linkedlist",
-        "projectPath": "/home/briang/Work/ARVR/alu-csharp/csharp-hashset_stack_queue_linkedlist/5-print_linkedlist/5-print_linkedlist.csproj",
-        "packagesPath": "/home/briang/.nuget/packages/",
-        "outputPath": "/home/briang/Work/ARVR/alu-csharp/csharp-hashset_stack_queue_linkedlist/5-print_linkedlist/obj/",
+        "projectPath": "/workspaces/alu-csharp/csharp-hashset_stack_queue_linkedlist/5-print_linkedlist/5-print_linkedlist.csproj",
+        "packagesPath": "/home/codespace/.nuget/packages/",
+        "outputPath": "/workspaces/alu-csharp/csharp-hashset_stack_queue_linkedlist/5-print_linkedlist/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/briang/.nuget/NuGet/NuGet.Config"
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -32,7 +32,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net7.0": {
@@ -48,12 +54,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/briang/dotnet/sdk/7.0.119/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.200/RuntimeIdentifierGraph.json"
         }
       }
     }

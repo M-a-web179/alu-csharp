@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "KUZ4DdBaNMLSpppGjlXzeSDa3ZeuFEr+ZltM8eE/D5mer+S+fvZPQxFXOeo+v4ncxW5ySzLpCd9Pul6gs1MaEQ==",
+  "dgSpecHash": "aHDrWWewZy8=",
   "success": true,
-  "projectFilePath": "/home/briang/Work/ARVR/alu-csharp/csharp-arrays_lists_dictionaries/1-element_at/1-element_at.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/workspaces/alu-csharp/csharp-arrays_lists_dictionaries/1-element_at/1-element_at.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.20/microsoft.netcore.app.host.linux-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }
