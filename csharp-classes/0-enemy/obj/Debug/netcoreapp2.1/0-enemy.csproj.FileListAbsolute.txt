@@ -1,0 +1,13 @@
+/workspaces/alu-csharp/csharp-classes/0-enemy/obj/Debug/netcoreapp2.1/0-enemy.csproj.AssemblyReference.cache
+/workspaces/alu-csharp/csharp-classes/0-enemy/obj/Debug/netcoreapp2.1/0-enemy.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/alu-csharp/csharp-classes/0-enemy/obj/Debug/netcoreapp2.1/0-enemy.AssemblyInfoInputs.cache
+/workspaces/alu-csharp/csharp-classes/0-enemy/obj/Debug/netcoreapp2.1/0-enemy.AssemblyInfo.cs
+/workspaces/alu-csharp/csharp-classes/0-enemy/obj/Debug/netcoreapp2.1/0-enemy.csproj.CoreCompileInputs.cache
+/workspaces/alu-csharp/csharp-classes/0-enemy/obj/Debug/netcoreapp2.1/0-enemy.sourcelink.json
+/workspaces/alu-csharp/csharp-classes/0-enemy/bin/Debug/netcoreapp2.1/0-enemy.deps.json
+/workspaces/alu-csharp/csharp-classes/0-enemy/bin/Debug/netcoreapp2.1/0-enemy.dll
+/workspaces/alu-csharp/csharp-classes/0-enemy/bin/Debug/netcoreapp2.1/0-enemy.pdb
+/workspaces/alu-csharp/csharp-classes/0-enemy/bin/Debug/netcoreapp2.1/0-enemy.xml
+/workspaces/alu-csharp/csharp-classes/0-enemy/obj/Debug/netcoreapp2.1/0-enemy.dll
+/workspaces/alu-csharp/csharp-classes/0-enemy/obj/Debug/netcoreapp2.1/0-enemy.xml
+/workspaces/alu-csharp/csharp-classes/0-enemy/obj/Debug/netcoreapp2.1/0-enemy.pdb
