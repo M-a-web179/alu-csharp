@@ -1,0 +1,5 @@
+/workspaces/alu-csharp/csharp-classes/0-enemy/obj/Debug/net7.0/0-enemy.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/alu-csharp/csharp-classes/0-enemy/obj/Debug/net7.0/0-enemy.AssemblyInfoInputs.cache
+/workspaces/alu-csharp/csharp-classes/0-enemy/obj/Debug/net7.0/0-enemy.AssemblyInfo.cs
+/workspaces/alu-csharp/csharp-classes/0-enemy/obj/Debug/net7.0/0-enemy.csproj.CoreCompileInputs.cache
+/workspaces/alu-csharp/csharp-classes/0-enemy/obj/Debug/net7.0/0-enemy.sourcelink.json

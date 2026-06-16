@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "zPSXI+yWlqYznHywm0i3YNDsSg8bU3c8ntev75iyEa0rtFRVyyPnkwBJjrBGIp6s1sFBu9xjaGzWWCcH/o5U8Q==",
+  "dgSpecHash": "3EBwVcb1VWE=",
   "success": true,
-  "projectFilePath": "/home/briang/Work/ARVR/alu-csharp/csharp-structs_enums/3-dog/3-dog.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/workspaces/alu-csharp/csharp-structs_enums/3-dog/3-dog.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.20/microsoft.netcore.app.host.linux-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }
